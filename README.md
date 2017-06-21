@@ -1,0 +1,1 @@
+Searches for files with a certain file extension and copies them in to a new folder.
